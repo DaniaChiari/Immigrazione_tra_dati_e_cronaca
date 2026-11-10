@@ -1,4 +1,6 @@
 # IMMIGRAZIONE TRA DATI E CRONACA
+Analisi computazionale in Python su dati ISTAT e su articoli de *La Repubblica*
+
 **Autrici**: Dania Chiari, Claudia Cocci, Sara De Simone
 
 **Corso**: Introduzione alla programmazione
