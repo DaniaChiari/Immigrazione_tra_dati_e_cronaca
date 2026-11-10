@@ -41,7 +41,11 @@ Il file `repubblica.csv` (63.702 articoli de *La Repubblica*, 2013-2019) non è 
 
 Il file deriva dal dataset ChangeIT (progetto EVALITA), ma è stato preventivamente filtrato/ripulito dal docente del corso; non corrisponde quindi esattamente alla versione pubblica originale del dataset.
 
-## Come eseguire il notebook
+## Requisiti
+- **Python** (versione usata: 3.14.3)
+- Pacchetti:  `pandas`, `numpy`, `matplotlib`, `seaborn`
+
+## Esecuzione del notebook
 1. Clonare il repository
 2. Scaricare `repubblica.csv` dal link sopra
 3. Creare la cartella `change-it` dentro `PROGETTO/dati/` e inserirvi il file, in modo che il percorso sia `PROGETTO/dati/change-it/repubblica.csv`
